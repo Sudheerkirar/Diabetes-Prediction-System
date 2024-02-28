@@ -1,2 +1,2 @@
 # Diabetes-Prediction-System
-Diabetes is a chronic disease that affects all genders and ages. Diabetes is a metabolic and systemic disease which occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
+Diabetes, a persistent condition, impacts individuals across genders and age groups. It is characterized as a metabolic and systemic ailment that arises when the pancreas fails to generate sufficient insulin or when the body struggles to utilize the insulin it produces. Utilizing logistic regression models from sci-kit-learn, I performed data preprocessing and assessed model efficacy through classification reports, confusion matrices, and ROC-AUC scores.
